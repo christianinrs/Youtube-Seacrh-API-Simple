@@ -9,11 +9,11 @@ unset($_SESSION['error']);
 
 <!-- LICENSE 
 
---------------------------------------------------------
+########################################################
 NAME      : CHRISTIAN INRISTA
 EMAIL     : christianinrista@gmail.com
 LINKEDIN  : https://www.linkedin.com/in/christianinrista
---------------------------------------------------------
+########################################################
 
 -->
 
